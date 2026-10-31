@@ -1,2 +1,1 @@
-# reciped
-this is an  exersice
+index.html
